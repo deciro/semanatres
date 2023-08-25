@@ -1,4 +1,4 @@
-package co.edu.uniquindio.semana3;
+package co.edu.uniquindio.progdos;
 
 import java.util.List;
 /*
